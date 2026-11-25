@@ -1,0 +1,11 @@
+# Go
+/bin/
+*.exe
+*.test
+*.out
+
+# macOS
+.DS_Store
+
+# WorkBuddy local memory
+.workbuddy/
