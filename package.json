@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "A self-contained Go client for the Microsoft Edge read-aloud protocol. It turns text into MP3 audio without any external TTS service — no API key, no server, no Python runtime.",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "release": "release-it"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/afeiship/go-edgetts.git"
